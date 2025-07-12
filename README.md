@@ -25,6 +25,12 @@ Click below to launch the notebook directly in Colab:
 - Works with **stars**, **galaxies**, and **nebulae**
 - Fully interpretable and visual
 
+#SGCPro-Spectral-Analyzer
+#Alisinalessani SGCPro
+#Project Name: SGCPro‑Spectral‑Analyzer
+Developed by Alisina Lessani (GitHub: @Alisinalessani)
+This repository is fully compatible with Google Colab and SDSS spectra analysis.
+
 ---
 
 Feel free to **star** ⭐ the repo or contribute!
