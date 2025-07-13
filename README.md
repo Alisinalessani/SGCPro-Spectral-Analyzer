@@ -19,7 +19,7 @@ Click below to launch the notebook directly in Colab:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alisinalessani/SGCPro-Spectral-Analyzer/blob/main/SGCPro_Final_AllElements_Colab.ipynb)
 
 ---
-
+#can i help you
 ### 📄 Example Outputs:
 - Detects up to **27 major spectral lines**
 - Works with **stars**, **galaxies**, and **nebulae**
