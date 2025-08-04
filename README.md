@@ -32,5 +32,6 @@ Developed by Alisina Lessani (GitHub: @Alisinalessani)
 This repository is fully compatible with Google Colab and SDSS spectra analysis.
 
 ---
+📄 [Read the full paper on SGC-Pro](‎https://zenodo.org/records/16017337)
 
 Feel free to **star** ⭐ the repo or contribute!
